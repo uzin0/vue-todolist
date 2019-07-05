@@ -2,7 +2,7 @@
     <div class="container">
         <div>
             <span>
-                할 일 :
+                할 일:
             </span>
             <input type="text" v-model="text"  @keyup.enter="ok()">
         </div>
